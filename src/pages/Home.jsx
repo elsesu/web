@@ -11,12 +11,14 @@ import SincCard from '../components/sincCard/SincCard'
 import EquityCard from '../components/equityCard/EquityCard'
 import BlogCard from '../components/Blogs/BlogCard'
 import MainCard from '../components/mainCard/MainCard'
+import Navbar from '../components/navBar/Navbar'
 import './style.css'
 
 
 const Home = () => {
   return (
     <div className='home-class'>
+      <Navbar/>
       <MainCard/>
       <NigeriaCard/>
       <NetworkCard/>
