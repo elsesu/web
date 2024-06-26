@@ -1,0 +1,23 @@
+.small-box{
+width: 352px;
+height: 212px;
+padding: 20px;
+border-radius: 20px;
+background: #FFFFFF;
+justify-content: space-between;
+align-items: center;
+}
+
+.box-gap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 36px;
+
+}
+
+.our{
+height:151px ;
+width: 934px;
+background-color: beige;
+}

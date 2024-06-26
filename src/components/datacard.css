@@ -1,0 +1,57 @@
+.dataBox{
+width:278px ;
+height: 450px;
+border-radius: 12px;
+padding: 20px;
+background: #FFFFFF;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+}
+.job-heading{
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 28.8px;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+
+.inside-job{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+   
+
+}
+
+.btn{
+    background: #303030;
+    border-radius:24px ;
+    height: 47px;
+    Padding:14px, 64px, 14px, 64px;
+    width: 185px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+}
+.job-image
+{
+width: 118px;
+height: 64px;
+}
+.tags{
+    color: #8E8E8E;
+    font-size: 14px;
+    line-height: 16.8px;
+    font-weight: 400;
+    text-align: justify;
+}
+
+.tag-data{
+    color: #212121;
+    font-size: 14px;
+    line-height: 16.8px;
+    font-weight: 400;
+    text-align: justify;
+}

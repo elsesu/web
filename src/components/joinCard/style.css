@@ -1,0 +1,22 @@
+.all-header{
+    width: 934px;
+  
+}
+
+.small-box3{
+width: 352px;
+height: 370px;
+padding: 20px;
+border-radius: 20px;
+background: #FFFFFF;
+justify-content: space-between;
+align-items: center;
+}
+
+.nav-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-top: 20px;
+}

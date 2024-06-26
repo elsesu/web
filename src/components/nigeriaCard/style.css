@@ -1,0 +1,45 @@
+.para-container{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 50px;
+padding-bottom: 50px;
+}
+.para{
+   font-family: 'Open Sans', sans-serif;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 30px;
+  align-self: center;
+}
+
+.name-block{
+display: flex;
+flex-direction: column;
+gap: 10px;
+}
+
+.div-para{
+    Width:883px;
+    Height:235px;
+    border-radius: 32px;
+   Padding: 15px;
+   background-color: #FFFFFF;
+   background:  #FFFFFF;
+   
+}
+
+.daniel{
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    align-self: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.managing{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    align-self: center;
+    font-family: 'Open Sans', sans-serif;
+}

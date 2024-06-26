@@ -1,0 +1,40 @@
+.image{
+width: 40px;
+height: 40px;
+justify-content: center;
+align-items: flex-start;
+display: flex;
+padding-bottom: 5px;
+}
+
+.top{
+justify-content: start;
+align-items: flex-start;
+display: flex;
+padding-bottom: 5px;
+flex-direction: column;
+width: 85%;
+}
+
+.carous{
+border-radius: 24px;
+border: 0.5px solid;
+padding: 12px;
+height: 24pxpx;
+width: 329px;
+background: #FFFFFF;
+border-color: #A4A4A4;
+align-items: center;
+justify-content: center;
+}
+
+.arrow{
+width:15.54px ;
+height: 15.54px;
+justify-content: center;
+align-self: center;
+align-items: center;
+margin-top: 10px;
+}
+
+

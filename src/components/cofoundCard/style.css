@@ -1,0 +1,18 @@
+.box-heading1{
+font-weight: bold;
+font-size: 24px;
+line-height: 28.8px;
+font-family: sans-serif;
+text-align: justify;
+padding-bottom: 10px;
+}
+
+.small-box2{
+width: 352px;
+height: 300px;
+padding: 20px;
+border-radius: 20px;
+background: #FFFFFF;
+justify-content: space-between;
+align-items: center;
+}
