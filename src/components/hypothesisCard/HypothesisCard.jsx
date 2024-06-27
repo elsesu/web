@@ -41,7 +41,8 @@ const HypothesisCard = () => {
         <div className='carous'>Value of my Equity Over Time</div>
       </div>
         </div>
-        <div className=''>Become A Service Incubator <img src={arrow} alt="" className='arrow' /></div>
+        <div className='below-arrow'> <div className=''>Become A Service Incubator </div> <div><img src={arrow} alt="" className='arrows' /></div> </div>
+       
     </div>
   )
 }

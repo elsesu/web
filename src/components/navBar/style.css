@@ -29,6 +29,7 @@ gap: 15px;
 .list-spread a{
     list-style-type: none;
     color: black;
+    text-decoration: none; 
     
 }
 
