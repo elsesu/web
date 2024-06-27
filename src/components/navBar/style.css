@@ -26,6 +26,12 @@ gap: 15px;
     
 }
 
+.list-spread a{
+    list-style-type: none;
+    color: black;
+    
+}
+
 .navv{
     height: 64px;
     display: flex;

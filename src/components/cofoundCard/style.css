@@ -16,3 +16,15 @@ background: #FFFFFF;
 justify-content: space-between;
 align-items: center;
 }
+.below-arrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    align-self: auto;
+    margin-top: 3rem;
+}
+
+.arrows{
+    margin-top: 5px;
+}

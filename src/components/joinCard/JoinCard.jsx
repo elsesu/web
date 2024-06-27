@@ -39,7 +39,8 @@ Following the alignment meeting, submit a formal proposal outlining your intende
 Once terms are agreed upon, we'll draft a formal agreement outlining the specifics of your EIR engagement, including reporting structures, responsibilities, and the support/resources provided by SINC Partners</div>
             </div>
          </div>
-         <div>Support The Future <img src={arrow} alt="" className=''/></div>
+         <div className='below-arrow'>     <div>Support The Future </div> <div><img src={arrow} alt="" className='arrows'/></div></div>
+    
          <div className='nav-flex'>
             <div><img src={left} alt="" /></div>
             <div><img src={right} alt="" /></div>

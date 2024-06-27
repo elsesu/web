@@ -6,13 +6,13 @@ const Navbar = () => {
   return (
     <div className='navv'>
         <div><ul className='list-spread'> <img src={logo} alt="" />
-            <li>About</li>
-            <li>SIP</li>
-            <li>Stido</li>
-            <li>SEEQ</li>
-            <li>Platforms</li>
-            <li>Initiatives</li>
-            <li>More</li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">SIP</a></li>
+            <li><a href="#">Stido</a></li>
+            <li><a href="#">SEEQ</a></li>
+            <li><a href="#" >SEEQ</a></li>
+            <li><a href="#" >Initiatives</a></li>
+            <li><a href="#" >More</a></li>
             </ul></div>
         <div className='navbar-flex'>
             <button className='btn2'>SINC With Us</button>

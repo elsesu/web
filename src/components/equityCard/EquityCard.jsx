@@ -31,7 +31,8 @@ const EquityCard = () => {
 
       }
       </div>
-      <div>See more equity jobs <img src={Images.arrow} alt="" /></div>
+<div className='below-arrow'> <div>See more equity jobs </div> <div><img src={Images.arrow} alt="" className='arrows'/></div></div>
+     
     </div>
   )
 }

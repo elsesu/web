@@ -35,7 +35,8 @@ const CofoundCard = () => {
                 will have opportunities to take equity at the early stage of their career, usually been the first to invest and almost guaranteed of return </div>
             </div>
          </div>
-         <div>Build your Dream <img src={arrow} alt="image" /></div>
+         <div className='below-arrow'> <div>Build your Dream </div> <div><img src={arrow} alt="image"className='arrows' /></div> </div>
+        
     </div>
   )
 }
