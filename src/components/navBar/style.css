@@ -41,12 +41,14 @@ gap: 15px;
     list-style-type: none;
     color: black;
     text-decoration: none; 
+    padding: 8px;
     
 }
 .list-spread a:hover {
     background: #20888F;
     padding: 8px;
     border-radius: 10px;
+    color: white;
   }
 
 .navv{
